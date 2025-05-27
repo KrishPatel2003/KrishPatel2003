@@ -54,11 +54,22 @@ _Minor: Computer Science – School of Arts and Sciences_
 
 ## 💼 Professional Experience
 
-### Amazon EWR4, Robbinsville, New Jersey
-**Area Manager - Warehouse Packing & Logistics**
-- Led warehouse operations, managing high-volume order fulfillment.
-- Supervised a team of 50+ associates, improving efficiency and reducing errors.
-- Implemented process automation and developed real-time tracking dashboards.
+Amazon Fulfillment Center – Warehouse Packing Associate
+Robbinsville, New Jersey
+
+Accurately packed customer orders into boxes while ensuring proper labeling and protection of items for safe delivery.
+
+Met and exceeded daily productivity and quality goals in a fast-paced, high-volume warehouse environment.
+
+Followed standard operating procedures (SOPs) for packing, scanning, and sorting items using handheld devices and warehouse software.
+
+Inspected items for damage and verified order accuracy before shipment, reducing return rates and improving customer satisfaction.
+
+Collaborated with team members and leadership to streamline packing workflows and maintain a safe, organized work environment.
+
+Maintained compliance with Amazon safety guidelines and workplace standards throughout shift operations.
+
+
 
 ### Neeyaan, Robbinsville, New Jersey
 **Data Analyst / IT Consultant**
